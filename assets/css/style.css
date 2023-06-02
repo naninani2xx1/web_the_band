@@ -204,7 +204,7 @@ html,body  {
     margin-top: 46px;
     width: 100%;
     padding-top: 50%;
-    background-image: url('/assets/img/chicago.jpg');
+    background-image: url('../img/chicago.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
